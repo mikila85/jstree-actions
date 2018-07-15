@@ -5,7 +5,7 @@
   "main": "jstree-actions.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alexandernst/jstree-actions.git"
+    "url": "git://github.com/mikila85/jstree-actions.git"
   },
   "keywords": [
     "jstree",
