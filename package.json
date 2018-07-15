@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/alexandernst/jstree-actions/issues"
   },
+  "dependencies": {
+    "jstree": ">=3.3.5"
+  },
   "homepage": "https://github.com/alexandernst/jstree-actions#readme"
 }
